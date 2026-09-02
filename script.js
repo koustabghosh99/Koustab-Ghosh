@@ -174,7 +174,9 @@ const certificates = {
     { img:"assets/certs/econflix.jpg", title:"ECONFLIX Workshop", desc:"Econspire — The Economic Club, IEM Kolkata · 10 Aug 2026" },
     { img:"assets/certs/durnibar.jpg", title:"\"Communicate Better in the New World\"", desc:"Durnibar — The Literary Club of IEM · 21 Aug 2026" }
   ],
-  technical: [],
+  technical: [
+    { img:"assets/certs/it-diploma.jpeg", title:"Diploma in Information Technology", desc:"IAS Yuva Computer Sakharta Mission · 92% · Grade A+ · Dec 2025" }
+  ],
   debate: [
     { img:"assets/certs/mun-bolivia.jpg", title:"IntraMUN 2026 — UNHRC Delegate", desc:"IEM Model United Nations · Represented Bolivia · 9 Aug 2026" }
   ]
