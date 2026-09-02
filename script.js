@@ -144,21 +144,6 @@ Ultimately, there are many areas in which AI is beneficial to executives that ho
 Artificial intelligence is expected to continue assisting leaders in improving their decision-making processes in the years to come. New developments, such as AI tools that generate, summarize, or even simulate scenarios, will further empower executives to improve their options on the matter. However, it must be noted that no matter how sophisticated such software becomes, it will only enhance an individual's natural talents. As such, there is a need for companies to invest in human qualities that will allow them to benefit from such technologies, such as curiosity, ethics, and digital literacy. It must also be noted that in order to maximize the benefits of AI, leaders cannot rely on it blindly, as no amount of data can compensate for genuine human care and encouragement.
 
 In the future, the best leaders will be those who work in concert with artificial intelligence to make decisions that reflect the highest human ideals, such as wisdom, morality, and compassion. As such, the future belongs to those who seek to balance human and technological capabilities to operate organizations that are truly worthy of the people that they serve and the communities that they operate within.`
-  },
-  {
-    img: "assets/writing/c-writeup.jpg",
-    title: "'C' Programming Language — Notes",
-    desc: "A personal reference brief covering what C is, what it can do, why it's useful, and its key advantages and disadvantages."
-  },
-  {
-    img: "assets/writing/java-writeup.jpg",
-    title: "Java Programming Language — Notes",
-    desc: "An introductory write-up on Java — what it is, what it can do, and where it's used."
-  },
-  {
-    img: "assets/writing/python-writeup.jpg",
-    title: "Python — Notes",
-    desc: "A brief on Python covering what it is, what it can do, and why it's a popular first language."
   }
 ];
 
